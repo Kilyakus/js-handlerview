@@ -1,0 +1,19 @@
+{
+	"name": "@kilyakus/js-handlerview",
+	"productName": "handlerview",
+	"version": "1.2610.00317",
+	"description": "Keyboard and mouse event policy for interfaces: layout-independent physical key bindings, global and contextual priorities, inherited preset handlers, explicit action blocking and native text-selection protection.",
+	"main": "js/handlerview.obf.js",
+	"author": "Aleksandr Kilyakov (@Kilyakus)",
+	"authorUsername": "Kilyakus",
+	"license": "CC-BY-NC-4.0",
+	"licenseLegal": "Attribution-NonCommercial 4.0 International",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/kilyakus/js-handlerview.git"
+	},
+	"build": {},
+	"publishConfig": {
+		"access": "public"
+	}
+}
